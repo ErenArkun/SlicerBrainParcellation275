@@ -31,7 +31,7 @@ This extension takes **NIfTI** (Neuroimaging Informatics Technology Initiative) 
 - **Medical and Research Applications**: In neuroscience research, accurate labeling of brain regions and volume measurements are essential for understanding brain structures and functions.
 - **Brain Structure-Function Relationships**: This method can help in understanding how different brain regions are related to specific functions or disorders.
 
-![Region Visualization](Screen_Images/img1.png)
+![Region Visualization](images/img1.png)
 
 
 
